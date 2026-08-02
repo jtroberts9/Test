@@ -24,7 +24,7 @@ business itself.
 | Phone (540) 497-3174 · email dogwoodplumbingva@gmail.com | Public listings tied to the Facebook page |
 | 100% recommended on Facebook | Facebook page (facebook.com/Dogwoodplumbingllc) |
 | 4.9-star Google rating | Reported by the owner from the Google Business Profile. Google blocks automated access, so this was not independently verified — **re-check before launch**, and add the review count next to it if the profile shows one |
-| "Trusted by more than 1,000 customers" · 24/7 availability | The company's existing site (dogwoodplumbva.com) |
+| "Hundreds of customers" · 24/7 availability | 24/7 availability is from the company's existing site (dogwoodplumbva.com), which also claimed "trusted by more than 1,000 customers." The owner revised that figure down to hundreds, and the site now says hundreds. **The old site still says 1,000+ — update it to match.** |
 | Hours Mon–Fri 9–5 · credit cards accepted | Originally from the HomeAdvisor profile — **confirm still accurate** |
 | "Fast estimates" wording | Owner's preference |
 | 10% military / veteran / first responder discount | Originally from the HomeAdvisor/Angi profiles — **confirm still offered** |
