@@ -392,6 +392,15 @@ section.tight { padding: 48px 0; }
   font-size: 14.5px;
 }
 .svc-card.emergency { border-top: 4px solid var(--cta); }
+
+/* "Don't see what you need?" tile — closes out the service grid with a
+   direct call CTA rather than another service. */
+.svc-card.ask-card {
+  background: var(--green-100);
+  border-color: rgba(30, 77, 59, 0.22);
+}
+.svc-card.ask-card .icon { background: #fff; }
+.svc-card.ask-card p { color: var(--green-800); opacity: 0.85; }
 .svc-card .tag {
   align-self: flex-start;
   background: #fdeee5;
