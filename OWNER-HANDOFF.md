@@ -49,7 +49,11 @@ business itself.
    Facebook, and add the Google star rating and review count to the placeholder
    stat on the Reviews page. Also drop the Google review link into the
    "Review us on Google" button (currently `href="#"`).
-3. **License number.** The site says "Licensed & Insured" (standard for a VA
+3. ~~**License number.**~~ **DONE** — Virginia License **#2705193552**, confirmed
+   by the owner, now appears in the footer of all five pages, in the About page
+   credentials list, and in the homepage structured data.
+
+   *(Original note kept for context:)* The site says "Licensed & Insured" (standard for a VA
    plumbing contractor and consistent with their listings). Add the license
    number to the footer for maximum trust — it's a top trust signal.
 4. **Service-area towns.** Front Royal + Warren County are confirmed. The
