@@ -28,7 +28,7 @@ business itself.
 | Hours Mon–Fri 9–5 · credit cards accepted | Originally from the HomeAdvisor profile — **confirm still accurate** |
 | "Fast estimates" wording | Owner's preference |
 | 10% military / veteran / first responder discount | Originally from the HomeAdvisor/Angi profiles — **confirm still offered** |
-| Services: drain cleaning, toilet repair, copper repiping, residential plumbing | The company's existing site pages |
+| Services: drain cleaning, toilet repair, residential plumbing | The company's existing site pages. (Copper repiping was listed there too, but the owner confirmed it is no longer offered, so it has been removed from the site.) |
 | Services: water heaters, leak repair, sump/sewage/septic pumps | Company service descriptions in public listings |
 | "Why Dogwood" — state flower angle | The flowering dogwood is Virginia's state flower & tree (marketing angle we added — confirm the owner likes it) |
 
