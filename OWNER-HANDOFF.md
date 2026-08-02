@@ -16,7 +16,8 @@ business itself.
 | 5.0 rating on HomeAdvisor and Angi | HomeAdvisor & Angi profiles |
 | 100% recommended on Facebook | Facebook page (facebook.com/Dogwoodplumbingllc) |
 | "Trusted by more than 1,000 customers" · 24/7 availability | The company's existing site (dogwoodplumbva.com) |
-| Hours Mon–Fri 9–5 · free estimates · credit cards accepted | HomeAdvisor profile |
+| Hours Mon–Fri 9–5 · credit cards accepted | HomeAdvisor profile |
+| "Fast estimates" wording | Owner's preference — note that the HomeAdvisor/Angi profiles advertise *free* estimates, so those listings should be updated to match, or they'll contradict the site |
 | 10% military / veteran / first responder discount | HomeAdvisor / Angi profiles |
 | Services: drain cleaning, toilet repair, copper repiping, residential plumbing | The company's existing site pages |
 | Services: water heaters, leak repair, sump/sewage/septic pumps | Company service descriptions in public listings |
@@ -61,7 +62,7 @@ business itself.
 - **Dogwood blossom branding.** Custom logo drawn for the company — the
   dogwood is Virginia's state flower, which ties the name to local pride.
   It's an SVG, so it stays crisp at any size and can go on business cards too.
-- **Trust signals everywhere** — veteran-owned badge, 5.0 ratings, free
+- **Trust signals everywhere** — veteran-owned badge, 5.0 ratings, fast
   estimates, the military discount — because reviews and credibility are the
   #1 driver for choosing a local plumber.
 - **Real reviews only.** Every quote on the site is from an actual public
