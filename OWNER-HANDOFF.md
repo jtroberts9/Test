@@ -9,20 +9,26 @@ Everything on the site is based on **publicly available information** about
 Dogwood Plumbing LLC of Front Royal, VA. Nothing was invented about the
 business itself.
 
+> **Note on sources (updated at the owner's request):** HomeAdvisor, Angi, and
+> Thumbtack are no longer active for this company, so all references to them —
+> the 5.0 ratings, the platform badges, the review links, and the two
+> testimonials taken from those sites — have been **removed from the site**.
+> Reviews should now come from the Google Business Profile, with Facebook as a
+> secondary source. Several remaining facts below were *originally* sourced
+> from those now-inactive listings; they are flagged so the owner can confirm
+> they are still accurate.
+
 | Fact on the site | Source |
 |---|---|
-| Family-operated, veteran-owned; "highest level of integrity and expertise"; 6+ years experience; all phases of residential plumbing | Company profile text on HomeAdvisor / Angi |
+| Family-operated, veteran-owned; "highest level of integrity and expertise"; 6+ years experience; all phases of residential plumbing | Originally from the HomeAdvisor/Angi profile text — **confirm still accurate** |
 | Phone (540) 497-3174 · email dogwoodplumbingva@gmail.com | Public listings tied to the Facebook page |
-| 5.0 rating on HomeAdvisor and Angi | HomeAdvisor & Angi profiles |
 | 100% recommended on Facebook | Facebook page (facebook.com/Dogwoodplumbingllc) |
 | "Trusted by more than 1,000 customers" · 24/7 availability | The company's existing site (dogwoodplumbva.com) |
-| Hours Mon–Fri 9–5 · credit cards accepted | HomeAdvisor profile |
-| "Fast estimates" wording | Owner's preference — note that the HomeAdvisor/Angi profiles advertise *free* estimates, so those listings should be updated to match, or they'll contradict the site |
-| 10% military / veteran / first responder discount | HomeAdvisor / Angi profiles |
+| Hours Mon–Fri 9–5 · credit cards accepted | Originally from the HomeAdvisor profile — **confirm still accurate** |
+| "Fast estimates" wording | Owner's preference |
+| 10% military / veteran / first responder discount | Originally from the HomeAdvisor/Angi profiles — **confirm still offered** |
 | Services: drain cleaning, toilet repair, copper repiping, residential plumbing | The company's existing site pages |
 | Services: water heaters, leak repair, sump/sewage/septic pumps | Company service descriptions in public listings |
-| "Patrick…" testimonial | HomeAdvisor review (public) |
-| "Absolute pleasure to work with…" testimonial | Thumbtack review (public, lightly condensed) |
 | "Why Dogwood" — state flower angle | The flowering dogwood is Virginia's state flower & tree (marketing angle we added — confirm the owner likes it) |
 
 ## Things the owner must confirm or provide
@@ -32,10 +38,17 @@ business itself.
    Facebook page already — they just need to be dropped in (see README).
    Priority order: (1) owner/family photo on the About page, (2) team/truck
    photo on the homepage, (3) job photos on the Services page.
-2. **Names.** Public reviews mention **Patrick** (HomeAdvisor) and a
-   review praising the plumber on Thumbtack. We deliberately did NOT put an
-   owner name on the site until the owner confirms how they want to be
-   introduced ("Owned by …" on the About page would be a great addition).
+2. **Names.** We deliberately did NOT put an owner name on the site until the
+   owner confirms how they want to be introduced ("Owned by …" on the About
+   page would be a great addition).
+2b. **Reviews — the biggest open item.** With the HomeAdvisor/Angi/Thumbtack
+   content removed, the only verifiable social proof left on the site is the
+   Facebook "100% recommended" line. The Reviews page and the homepage review
+   section now hold clearly-marked placeholder cards. To fill them in:
+   paste real reviews from the **Google Business Profile** (preferred) or
+   Facebook, and add the Google star rating and review count to the placeholder
+   stat on the Reviews page. Also drop the Google review link into the
+   "Review us on Google" button (currently `href="#"`).
 3. **License number.** The site says "Licensed & Insured" (standard for a VA
    plumbing contractor and consistent with their listings). Add the license
    number to the footer for maximum trust — it's a top trust signal.
