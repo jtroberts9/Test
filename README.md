@@ -36,9 +36,6 @@ See **OWNER-HANDOFF.md** for the full list. The short version:
 4. **Quote form** — currently opens a pre-filled email (works with no backend).
    To receive submissions directly, create a free [Formspree](https://formspree.io)
    form and follow the comment at the top of the form handler in `js/main.js`.
-5. **Google Map embed** — on the homepage service-area section, replace the map
-   placeholder with a free Google Maps embed: maps.google.com → search
-   "Front Royal, VA" → Share → Embed a map → copy the `<iframe>`.
 
 ## Hosting
 
