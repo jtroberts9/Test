@@ -73,10 +73,15 @@
     </section>
 
     <!-- ==================== RATING SUMMARY ====================
-         The 4.9 Google rating was confirmed by the owner. If the Google
-         Business Profile also shows a review count, add it to the label
-         (e.g. "Google rating (27 reviews)") — a rating backed by a visible
-         count is a stronger signal than a rating on its own.
+         The 4.9 Google rating was confirmed by the owner.
+
+         Deliberately NO review count here: this is a static site, so any
+         number hard-coded into it goes stale the moment the next review
+         lands. The star rating moves slowly enough to be safe; a count
+         does not. Same reasoning applies to the 100% Facebook figure —
+         re-check both periodically, and if the rating ever shifts, update
+         it here, on the homepage hero chip, the homepage stat card, the
+         homepage badge row, and the About page credentials list.
     -->
     <section class="tight">
       <div class="wrap">
@@ -178,12 +183,19 @@
           <p>A quick review helps your neighbors find an honest plumber &mdash; and it means the world to a small family business.</p>
         </div>
         <!--
-          OWNER TO-DO: replace the "#" below with the Google review link.
-          Get it from the Google Business Profile dashboard: Ask for reviews →
-          copy the short link (looks like https://g.page/r/XXXXXXXX/review).
+          This is a clean Google search link with no session tokens, so it
+          will keep working indefinitely. It lands on the business profile,
+          where visitors can read reviews or click "Write a review."
+
+          OPTIONAL UPGRADE: for a true one-click review form, get the short
+          link from the Google Business Profile dashboard (Ask for reviews →
+          copy link). It looks like https://g.page/r/XXXXXXXX/review and can
+          replace the href below. Do NOT paste a link copied out of the
+          browser address bar after a search — those carry session tokens
+          that expire.
         -->
         <div class="badge-row" style="margin-top: 0;">
-          <a class="badge" href="#">Review us on Google</a>
+          <a class="badge" href="https://www.google.com/search?q=Dogwood+Plumbing+LLC+Front+Royal+VA" target="_blank" rel="noopener">Review us on Google</a>
           <a class="badge" href="https://www.facebook.com/Dogwoodplumbingllc" target="_blank" rel="noopener">Recommend us on Facebook</a>
         </div>
       </div>

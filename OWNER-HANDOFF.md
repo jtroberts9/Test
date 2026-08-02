@@ -23,7 +23,7 @@ business itself.
 | Family-operated, veteran-owned; "highest level of integrity and expertise"; 6+ years experience; all phases of residential plumbing | Originally from the HomeAdvisor/Angi profile text — **confirm still accurate** |
 | Phone (540) 497-3174 · email dogwoodplumbingva@gmail.com | Public listings tied to the Facebook page |
 | 100% recommended on Facebook | Facebook page (facebook.com/Dogwoodplumbingllc) |
-| 4.9-star Google rating | Reported by the owner from the Google Business Profile. Google blocks automated access, so this was not independently verified — **re-check before launch**, and add the review count next to it if the profile shows one |
+| 4.9-star Google rating | Reported by the owner from the Google Business Profile. Google blocks automated access, so this was not independently verified — **re-check before launch.** No review *count* is shown anywhere by design: this is a static site, so a hard-coded count goes stale as soon as the next review arrives. If the star rating itself ever changes, it appears in five places — Reviews page stat, homepage hero chip, homepage stat card, homepage badge row, and About page credentials |
 | "Hundreds of customers" · 24/7 availability | 24/7 availability is from the company's existing site (dogwoodplumbva.com), which also claimed "trusted by more than 1,000 customers." The owner revised that figure down to hundreds, and the site now says hundreds. **The old site still says 1,000+ — update it to match.** |
 | Hours Mon–Fri 9–5 · credit cards accepted | Originally from the HomeAdvisor profile — **confirm still accurate** |
 | "Fast estimates" wording | Owner's preference |
