@@ -474,6 +474,39 @@ section.tight { padding: 48px 0; }
 
 .ph-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
 
+/* Real job photos — many are tall phone shots, so cap the height and crop
+   rather than letting a portrait image tower over the text column. */
+.job-photo {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.job-photo.tall { max-height: 560px; }
+.job-photo.small { max-height: 300px; }
+/* For photos where the whole frame matters (people, before/after pairs),
+   show it complete instead of cropping to fill. */
+.job-photo.whole {
+  width: auto;
+  max-width: 100%;
+  max-height: 620px;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+figure.job-figure { margin: 0; }
+figure.job-figure figcaption {
+  font-size: 13.5px;
+  color: var(--ink-soft);
+  margin-top: 10px;
+  text-align: center;
+}
+@media (max-width: 720px) {
+  .job-photo, .job-photo.tall { max-height: 380px; }
+}
+
 /* --------------------------------------------------------------------------
    Reviews
    -------------------------------------------------------------------------- */
